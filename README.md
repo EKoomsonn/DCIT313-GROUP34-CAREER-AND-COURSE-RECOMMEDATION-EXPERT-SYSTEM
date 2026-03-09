@@ -64,14 +64,14 @@ The goal of this expert system is to:
 
 ---
 
-## Group Members                ID        ROLE
-| Elton Koomson              22053775    Domain Expert      
-| Herman Kwame Aseda         22060793    Programmer         
-| Iddrisu Abdul Matin        22057472    Programmer         
-| Prince Kwaku Enam Ametefe  22019776    Programmer         
-| Michael Chandi Thomas      22241883    End User           
-| Obeng Nana Yaw Asante      22120929    Project Manager    
-| Nasir Anyobode             22060865    Knowledge Engineer 
+## Group Members              
+ Elton Koomson           -   22053775    (Domain Expert)      
+ Herman Kwame Aseda      -  22060793    (Programmer)         
+ Iddrisu Abdul Matin     -  22057472    (Programmer)         
+ Prince Kwaku Enam Ametefe -  22019776    (Programmer)         
+ Michael Chandi Thomas   -   22241883    (End User)           
+ Obeng Nana Yaw Asante   -   22120929    (Project Manager)    
+ Nasir Anyobode          -   22060865    (Knowledge Engineer) 
 
 ---
 
